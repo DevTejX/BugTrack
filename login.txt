@@ -1,0 +1,5 @@
+mongodb+srv://TpBTB2JjWc7lY6jl:TpBTB2JjWc7lY6jl@bugtrackcluster.xyhz0ti.mongodb.net/?appName=BugTrackCluster
+
+
+user: TpBTB2JjWc7lY6jl
+pass: TpBTB2JjWc7lY6jl
