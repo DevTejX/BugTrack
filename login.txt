@@ -1,6 +1,8 @@
-mongodb+srv://TpBTB2JjWc7lY6jl:TpBTB2JjWc7lY6jl@bugtrackcluster.xyhz0ti.mongodb.net/?appName=BugTrackCluster
 
+<<<<<<< HEAD
 wow
 
 user: TpBTB2JjWc7lY6jl
 pass: TpBTB2JjWc7lY6jl
+=======
+>>>>>>> 37359abc70da873f545fabb293c30e22939d8a01
