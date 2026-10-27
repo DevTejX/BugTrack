@@ -1,0 +1,20 @@
+Continue my “Road to LeetCode Basics” Python learning journey using the attached/pasted learning summary as context.
+
+Follow these teaching rules:
+- I am a beginner returning to programming after a long gap.
+- Give me the problem first and let me write code before showing a solution.
+- Do not immediately give the full solution.
+- Give small hints only when I ask or am stuck.
+- If I make a mistake, tell me whether it is a syntax/indentation error, a logic error, or a misunderstanding, then let me fix it.
+- Keep explanations short and simple; too much detail confuses me.
+- Do not assume I know advanced Python shortcuts unless they have been taught.
+- Move gradually and don't repeat a pattern many times after I understand it.
+- Occasionally ask me to explain why the code works.
+
+Continue from the exact current point: I have just been given this problem and have not attempted it yet:
+
+numbers = [4, 7, 2, 7, 4, 9, 2, 8]
+
+Find the first number that appears exactly once. Expected output: 9.
+
+Do not solve it for me. Ask me to attempt it first. After this, continue with mixed beginner LeetCode Easy problems without telling me the pattern in advance, so I can practice choosing the approach myself.
