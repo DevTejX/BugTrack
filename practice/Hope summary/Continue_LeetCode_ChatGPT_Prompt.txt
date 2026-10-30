@@ -18,3 +18,10 @@ numbers = [4, 7, 2, 7, 4, 9, 2, 8]
 Find the first number that appears exactly once. Expected output: 9.
 
 Do not solve it for me. Ask me to attempt it first. After this, continue with mixed beginner LeetCode Easy problems without telling me the pattern in advance, so I can practice choosing the approach myself.
+
+
+
+
+
+https://chatgpt.com/share/6ae3b608-74d4-83ee-a7b2-3437a9cf3708
+a chatgpt link
